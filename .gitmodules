@@ -1,0 +1,6 @@
+[submodule "lib/ixfree"]
+	path = lib/ixfree
+	url = https://github.com/yizhouzhang/ixfree
+[submodule "lib/tlc"]
+	path = lib/tlc
+	url = https://github.com/charguer/tlc
